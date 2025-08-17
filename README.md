@@ -118,7 +118,7 @@ plt.show()
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/MohamedSLITI/lstm-timeseries.git
+git clone https://github.com/MohamedSLITI/lstm.git
 ```
 
 2. Navigate to the folder and run:
