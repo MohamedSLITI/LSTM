@@ -124,5 +124,5 @@ git clone https://github.com/MohamedSLITI/lstm.git
 2. Navigate to the folder and run:
 
 ```bash
-python lstm_example.py
+python lstm-timeseries.py
 ```
